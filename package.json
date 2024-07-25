@@ -15,7 +15,8 @@
   "scripts": {
     "start": "react-scripts start",
     "start-mac": "PORT=3005 react-scripts start",
-    "start-windows": "set PORT=3005 && react-scripts start"
+    "start-windows": "set PORT=3005 && react-scripts start",
+    "build": "react-scripts build"
   },
   "browserslist": {
     "production": [
